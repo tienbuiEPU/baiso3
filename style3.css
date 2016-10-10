@@ -1,0 +1,16 @@
+body {
+font-family: Tahoma;
+font-size: 12px;
+text-align: center;
+}
+table, th, td, tr {
+border: 1px solid orange;
+}
+th {
+background: #CC0033;
+color: #FFFFFF;
+}
+caption {
+font-size: 25px;
+color: #CC0033;
+}
